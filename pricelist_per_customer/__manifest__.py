@@ -8,6 +8,7 @@
     "license": "AGPL-3",
     "depends": ["base","sale"],
     "installable": True,
+    "images": ['static/description/Banner.gif'],
     'license': 'OPL-1',
     'currency': 'EUR',
     'price': '15',
