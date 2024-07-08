@@ -1,6 +1,6 @@
 {
-    "name": "Pricelist Per Customer",
-    "summary": "Pricelist Per Customer",
+    "name": "Dynamic Pricelist Per Customer",
+    "summary": "Pricelist Per Customer, dynamic pricelist, customer management",
     "version": "17.0.1.0.2",
     "category": "sale",
     "author": "Edoo",
