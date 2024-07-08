@@ -9,6 +9,6 @@
     "depends": ["base","sale"],
     "installable": True,
     'license': 'OPL-1',
-	'currency': 'EUR',
-	'price': '15',
+    'currency': 'EUR',
+    'price': '15',
 }

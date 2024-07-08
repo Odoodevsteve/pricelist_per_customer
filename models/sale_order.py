@@ -20,7 +20,6 @@ class SaleOrder(models.Model):
             customer = order.partner_id
             product_prices = {line.product_id: line.price_unit for line in order.order_line}
             if not customer.property_product_pricelist:
-                print("insidd iddfffffff")
                 pricelist = self.env['product.pricelist'].create({
                     'name': f'{customer.name} Pricelist',
                     'item_ids': [(0, 0, {
